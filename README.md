@@ -2,7 +2,7 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1>
 
-<img src = 'https://github.com/Emam546/Emam546/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/Emam546/Emam546/blob/main/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-MahmoudImam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoudimamashour/)](https://www.linkedin.com/in/mahmoudimamashour/) [![Gmail Badge](https://img.shields.io/badge/-workemam564@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workemam564@gmail.com)](mailto:workemam564@gmail.com)
 
@@ -21,11 +21,11 @@
 
 ## Technologies I Use
 
-<img src = 'https://github.com/Emam546/Emam546/blob/master/images/typescript.svg' width='30'/> <img src = 'https://github.com/Emam546/Emam546/blob/master/images/nextjs.svg' width='30'/> <img src = 'https://github.com/Emam546/Emam546/blob/master/images/react.svg' width='30'/> <img src = 'https://github.com/Emam546/Emam546/blob/master/images/node.svg' width='30'/> <img src = 'https://github.com/Emam546/Emam546/blob/master/images/tailwind.svg' width='30'/> <img src = 'https://github.com/Emam546/Emam546/blob/master/images/bootstrap.svg' width='30'/> 
+<img src = 'https://github.com/Emam546/Emam546/blob/main/images/typescript.svg' width='30'/> <img src = 'https://github.com/Emam546/Emam546/blob/main/images/nextjs.svg' width='30'/> <img src = 'https://github.com/Emam546/Emam546/blob/main/images/react.svg' width='30'/> <img src = 'https://github.com/Emam546/Emam546/blob/main/images/node.svg' width='30'/> <img src = 'https://github.com/Emam546/Emam546/blob/main/images/tailwind.svg' width='30'/> <img src = 'https://github.com/Emam546/Emam546/blob/main/images/bootstrap.svg' width='30'/> 
 
 ## Data Bases
 
-<img src = 'https://github.com/Emam546/Emam546/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/Emam546/Emam546/blob/master/images/mongodb.svg' width='30'/> <img src = 'https://github.com/Emam546/Emam546/blob/master/images/redis.svg' width='30'/> 
+<img src = 'https://github.com/Emam546/Emam546/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/Emam546/Emam546/blob/main/images/mongodb.svg' width='30'/> <img src = 'https://github.com/Emam546/Emam546/blob/main/images/redis.svg' width='30'/> 
 
 
 ## Who am I?
