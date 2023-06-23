@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-MahmoudImam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoudimamashour/)](https://www.linkedin.com/in/mahmoudimamashour/) [![Gmail Badge](https://img.shields.io/badge/-workemam564@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workemam564@gmail.com)](mailto:workemam564@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Emam546" alt="Emam546" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Emam546" alt="Emam546" /> </p> -->
 
 <div style="text-align: right">Attention is better than love, but if you give me a choice between love and attention, I will choose coding with a typescript </div>
 
